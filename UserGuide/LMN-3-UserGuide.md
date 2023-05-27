@@ -1,7 +1,7 @@
 
 ## LMN-3 Screens
 
-### Settings Screen ![(cog)](https://github.com/anyway59/LMN-3-DAW/blob/main/UserGuide/images/cog.PNG)
+### Settings Screen ![(cog)](https://github.com/anyway59/LMN-3-DAW/blob/main/UserGuide/images/cog-small.PNG)
  - Allows basic settings to be modified 
  - Turn encoder 1 to highlight different top-level options
 
