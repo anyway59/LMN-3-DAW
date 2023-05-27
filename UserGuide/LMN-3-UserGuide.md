@@ -1,6 +1,7 @@
+
 ## LMN-3 Screens
 
-### Settings Screen (cog)
+### Settings Screen ![(cog)](https://github.com/anyway59/LMN-3-DAW/blob/main/UserGuide/images/cog.PNG)
  - Allows basic settings to be modified 
  - Turn encoder 1 to highlight different top-level options
 
@@ -16,7 +17,7 @@ Encoder functions when in Tracks Screen:
  - Loop button : toggles looping on/off
  - Turn Encoder 3 changes play head position (continuous)
  - Turn Encoder 3 + Lemon button changes play head position (beat by beat)
- - Push Encoder 3   ??
+ - Push Encoder 3  solo on/off
  - Push Encoder 4  mutes / unmutes
 
 Double-push stop to move play head position to start
@@ -28,8 +29,9 @@ Then hit + to add a plugin, then:
  - Turn Encoder 2 to highlight desired plugin, and Press to select
 
 #### DrumSampler
-Press Encoder 1 to show the available drum kits
-Then Turn Encoder 1 to highlight desired kit, and Press to select
+See this [README](https://github.com/FundamentalFrequency/LMN-3-DAW/blob/main/README.md) for how to add drum kits and sample sounds to the LMN-3.
+- Press Encoder 1 to show the available drum kits
+- Then Turn Encoder 1 to highlight desired kit, and Press to select
 
 
 ### Sequencers Screen
@@ -42,3 +44,5 @@ Turn Encoder 3 to select different steps
 To add a note to the sequence at a certain step, hold '+' and press note
 To delete notes from the sequence at a certain step, press '-'
 Turn Encoder 3 with '-' pressed to delete steps in bulk
+
+
